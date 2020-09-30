@@ -1,7 +1,19 @@
 
 
 # Creational 
-1. Singleton
+
+
+| Design Pattern | Notes | Code |
+| ------ | ------ | ------ |
+| Singleton | [ ]| |
+| cell | cell |  |
+|||
+|||
+|||
+|||
+
+
+
 
 
 
