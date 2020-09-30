@@ -17,7 +17,7 @@ public class LazyLoadedSingleton {
     public static LazyLoadedSingleton getInstance(){
 
         if(instance == null) {
-            synchronized (LazyLoadedSingleton.class){ //
+            synchronized (LazyLoadedSingleton.class){ // People say `synchronized` can be used incorrectly
                 if(instance == null) {
                     instance = new LazyLoadedSingleton();
                 }
