@@ -1,3 +1,6 @@
+
+# TODO: Seperate functional and GoF into folders
+
 # Creational 
 
 
