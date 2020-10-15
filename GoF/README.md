@@ -1,8 +1,4 @@
-
-# TODO: Seperate functional and GoF into folders
-
 # Creational 
-
 
 | Design Pattern | Notes & Code | Refactoring Guru Link|
 | ------ | ------ | ------ | 
