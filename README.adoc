@@ -12,3 +12,13 @@
 
 
 === Functional 
+
+
+
+
+== Branches
+
+
+1. https://github.com/aymanapatel/design-patterns/tree/design-patterns-msft-vs-yt[Design Patterns Microsift Youtube]
+
+  - Code in Visual Studio and C#
