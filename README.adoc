@@ -1,0 +1,14 @@
+= Design Patterns
+:toc:
+
+
+
+
+
+== Folders 
+
+=== Gang of Four
+
+
+
+=== Functional 
