@@ -1,0 +1,8 @@
+= https://www.youtube.com/watch?v=agkWYPUcLpg&list=PLnqJcYTFkXNQfdIGPqj-C577tH_4N43qN[Microsoft Youtube series on Design Patterns]
+:toc:
+
+
+
+== SOLID
+
+== Design Patterns
